@@ -1,0 +1,27 @@
+{
+  "name": "aws-mq-example",
+  "version": "1.0.0",
+  "description": "AWS MQ sample code with nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mqtt": "^2.15.0",
+    "request": "^2.83.0",
+    "stomp-client": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackie1019/aws-mq-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackie1019/aws-mq-example/issues"
+  },
+  "homepage": "https://github.com/blackie1019/aws-mq-example#readme"
+}
